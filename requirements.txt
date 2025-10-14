@@ -1,0 +1,8 @@
+@'
+simpy
+scikit-fuzzy
+pyswarm
+pandas
+networkx
+numpy
+'@ | Out-File -Encoding utf8 requirements.txt
