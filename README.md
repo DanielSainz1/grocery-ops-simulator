@@ -2,10 +2,6 @@
 
 A compact **operations & pricing** simulator for a grocery store. It blends **discrete-event simulation (SimPy)**, **fuzzy-logic discounting**, and a lightweight **PSO** step to suggest initial stock levels. The program outputs **daily KPIs** to CSV: `revenue`, `cogs`, `delivery_cost`, `profit`, `products_sold`.
 
-> - Demonstrates **end-to-end thinking**.
-> - Applies **AI techniques** (fuzzy systems, metaheuristics) to a concrete **business problem** (pricing & inventory).
-> - Shows **reproducible, modular Python** with results you can analyze immediately.
-
 ---
 
 ## Features
